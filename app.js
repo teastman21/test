@@ -196,6 +196,7 @@ function times2str(times){
   // convert a course.times object into a list of strings
   // e.g ["Lecture:Mon,Wed 10:00-10:50","Recitation: Thu 5:00-6:30"]
   if (!times || times.length==0){
+
     return ["not scheduled"]
   } else {
     return times.map(x => time2str(x))
@@ -242,6 +243,7 @@ app.get('/upsertDB',
       const num = getNum(coursenum);
       course.num=num
       course.suffix = coursenum.slice(num.length)
+      course.strTimes = times2str(course.times)
       await Course.findOneAndUpdate({subject,coursenum,section,term},course,{upsert:true})
     }
     const num = await Course.find({}).count();
@@ -257,7 +259,7 @@ app.post('/courses/bySubject',
     const courses = await Course.find({subject:subject,independent_study:false}).sort({term:1,num:1,section:1})
     
     res.locals.courses = courses
-    res.locals.times2str = times2str
+    res.locals.strTimes = courses.strTimes
     //res.json(courses)
     res.render('courselist')
   }
@@ -269,7 +271,7 @@ app.get('/courses/show/:courseId',
     const {courseId} = req.params;
     const course = await Course.findOne({_id:courseId})
     res.locals.course = course
-    res.locals.times2str = times2str
+    res.locals.strTimes = courses.strTimes
     //res.json(course)
     res.render('course')
   }
@@ -296,15 +298,30 @@ app.post('/courses/byInst',
                .sort({term:1,num:1,section:1})
     //res.json(courses)
     res.locals.courses = courses
-    res.locals.times2str = times2str
+    res.locals.strTimes = courses.strTimes
     res.render('courselist')
   }
+)
+
+app.post('/courses/byKeyowrd',
+  //show courses that contain a keyword
+  async (req, res, next) => {
+    const keyword = req.body;
+    const courses = 
+        await Course
+                .find({name: keyword}, {independent_study: false})
+                .sort({term:1, num:1,section:1})
+    res.locals.courses = courses
+    res.locals.strTimes = courses.strTimes
+    res.render('courselist')                    
+  }
+
 )
 
 app.use(isLoggedIn)
 
 app.get('/addCourse/:courseId',
-  // add a course to the user's schedule
+  // add a course to the user's sch-edule
   async (req,res,next) => {
     try {
       const courseId = req.params.courseId
