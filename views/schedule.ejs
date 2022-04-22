@@ -31,12 +31,21 @@
                         Term:  <%= course.term %>
                     </div>
                     <div class="p-1 m-1">
-                        You are 1 student of <%= course.enrolled %> in the class. 
+                        <% if (course.limit > course.enrolled) {%> 
+                            You are 1 student of <%= course.enrolled %> in the class. 
+                        <%} else {%>
+                            Course limit of: <%= course.limit %> students exceeded. You are currently on a waitlist of <%= course.waiting %> students.
+                            <%}%>
                     </div>
                     <div class="p-1 m-1"> 
                         <%= course.instructor[1] %> will be your professor! 
                     </div>
-                     
+                    <div class="p-1 m-1"> 
+                        The meeting times for your course will be: 
+                    </div>
+                    <div class="p-1 m-1"> 
+                        <%= course.strTimes%>
+                    </div>
                   </div>
                   
                   
@@ -68,3 +77,5 @@
         <%= JSON.stringify(courses,null,5) %>
     </pre>
 -->
+
+
