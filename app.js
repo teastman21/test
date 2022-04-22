@@ -303,16 +303,15 @@ app.post('/courses/byInst',
   }
 )
 
-app.post('/courses/byKeyowrd',
+app.post('/courses/byKeyword',
   //show courses that contain a keyword
   //attemp to find str that includes keyword: name: this.name.includes(keyword)
   async (req, res, next) => {
-    console.log("we actually made it to the right route")
     const {keyword} = req.body;
-    console.log("my req body = ", req.body)
+    var regex = new RegExp(keyword, "gi")
     const courses = 
         await Course
-                .find({name: keyword, independent_study: false})
+                .find({name: regex}, {independent_study: false})
                 .sort({term:1, num:1,section:1})
     res.locals.courses = courses
     res.locals.strTimes = courses.strTimes
