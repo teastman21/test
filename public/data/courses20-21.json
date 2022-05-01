@@ -1,0 +1,3272 @@
+[
+  {
+    "instructor": "Precious",
+    "subject": "Achiuwa",
+    "section": 1630173,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Jaylen",
+    "subject": "Adams",
+    "section": 1629121,
+    "term": 0
+  },
+  {
+    "instructor": "Steven",
+    "subject": "Adams",
+    "section": 203500,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Bam",
+    "subject": "Adebayo",
+    "section": 1628389,
+    "term": 1610612748
+  },
+  {
+    "instructor": "LaMarcus",
+    "subject": "Aldridge",
+    "section": 200746,
+    "term": 0
+  },
+  {
+    "instructor": "Ty-Shon",
+    "subject": "Alexander",
+    "section": 1630234,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Nickeil",
+    "subject": "Alexander-Walker",
+    "section": 1629638,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Grayson",
+    "subject": "Allen",
+    "section": 1628960,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Jarrett",
+    "subject": "Allen",
+    "section": 1628386,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Al-Farouq",
+    "subject": "Aminu",
+    "section": 202329,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Kyle",
+    "subject": "Anderson",
+    "section": 203937,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Giannis",
+    "subject": "Antetokounmpo",
+    "section": 203507,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Kostas",
+    "subject": "Antetokounmpo",
+    "section": 1628961,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Thanasis",
+    "subject": "Antetokounmpo",
+    "section": 203648,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Carmelo",
+    "subject": "Anthony",
+    "section": 2546,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Cole",
+    "subject": "Anthony",
+    "section": 1630175,
+    "term": 1610612753
+  },
+  {
+    "instructor": "OG",
+    "subject": "Anunoby",
+    "section": 1628384,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Ryan",
+    "subject": "Arcidiacono",
+    "section": 1627853,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Trevor",
+    "subject": "Ariza",
+    "section": 2772,
+    "term": 1610612748
+  },
+  {
+    "instructor": "D.J.",
+    "subject": "Augustin",
+    "section": 201571,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Deni",
+    "subject": "Avdija",
+    "section": 1630166,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Deandre",
+    "subject": "Ayton",
+    "section": 1629028,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Udoka",
+    "subject": "Azubuike",
+    "section": 1628962,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Dwayne",
+    "subject": "Bacon",
+    "section": 1628407,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Marvin",
+    "subject": "Bagley III",
+    "section": 1628963,
+    "term": 1610612758
+  },
+  {
+    "instructor": "LaMelo",
+    "subject": "Ball",
+    "section": 1630163,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Lonzo",
+    "subject": "Ball",
+    "section": 1628366,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Mo",
+    "subject": "Bamba",
+    "section": 1628964,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Desmond",
+    "subject": "Bane",
+    "section": 1630217,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Harrison",
+    "subject": "Barnes",
+    "section": 203084,
+    "term": 1610612758
+  },
+  {
+    "instructor": "RJ",
+    "subject": "Barrett",
+    "section": 1629628,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Will",
+    "subject": "Barton",
+    "section": 203115,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Keita",
+    "subject": "Bates-Diop",
+    "section": 1628966,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Nicolas",
+    "subject": "Batum",
+    "section": 201587,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Aron",
+    "subject": "Baynes",
+    "section": 203382,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Kent",
+    "subject": "Bazemore",
+    "section": 203145,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Darius",
+    "subject": "Bazley",
+    "section": 1629647,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Bradley",
+    "subject": "Beal",
+    "section": 203078,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Malik",
+    "subject": "Beasley",
+    "section": 1627736,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "Bell",
+    "section": 1628395,
+    "term": 1610612744
+  },
+  {
+    "instructor": "DeAndre'",
+    "subject": "Bembry",
+    "section": 1627761,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Davis",
+    "subject": "Bertans",
+    "section": 202722,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Patrick",
+    "subject": "Beverley",
+    "section": 201976,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Saddiq",
+    "subject": "Bey",
+    "section": 1630180,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Tyler",
+    "subject": "Bey",
+    "section": 1630189,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Khem",
+    "subject": "Birch",
+    "section": 203920,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Goga",
+    "subject": "Bitadze",
+    "section": 1629048,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Bismack",
+    "subject": "Biyombo",
+    "section": 202687,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Nemanja",
+    "subject": "Bjelica",
+    "section": 202357,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Eric",
+    "subject": "Bledsoe",
+    "section": 202339,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Keljin",
+    "subject": "Blevins",
+    "section": 1629833,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Bogdan",
+    "subject": "Bogdanovic",
+    "section": 203992,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Bojan",
+    "subject": "Bogdanovic",
+    "section": 202711,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Bol",
+    "subject": "Bol",
+    "section": 1629626,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Marques",
+    "subject": "Bolden",
+    "section": 1629716,
+    "term": 0
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "Bone",
+    "section": 1629648,
+    "term": 0
+  },
+  {
+    "instructor": "Isaac",
+    "subject": "Bonga",
+    "section": 1629067,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Devin",
+    "subject": "Booker",
+    "section": 1626164,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Chris",
+    "subject": "Boucher",
+    "section": 1628449,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Brian",
+    "subject": "Bowen II",
+    "section": 1628968,
+    "term": 0
+  },
+  {
+    "instructor": "Avery",
+    "subject": "Bradley",
+    "section": 202340,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Tony",
+    "subject": "Bradley",
+    "section": 1628396,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Jarrell",
+    "subject": "Brantley",
+    "section": 1629714,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Ignas",
+    "subject": "Brazdeikis",
+    "section": 1629649,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Mikal",
+    "subject": "Bridges",
+    "section": 1628969,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Miles",
+    "subject": "Bridges",
+    "section": 1628970,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Amida",
+    "subject": "Brimah",
+    "section": 1628578,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Oshae",
+    "subject": "Brissett",
+    "section": 1629052,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Malcolm",
+    "subject": "Brogdon",
+    "section": 1627763,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Armoni",
+    "subject": "Brooks",
+    "section": 1629717,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Dillon",
+    "subject": "Brooks",
+    "section": 1628415,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Bruce",
+    "subject": "Brown",
+    "section": 1628971,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Jaylen",
+    "subject": "Brown",
+    "section": 1627759,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Moses",
+    "subject": "Brown",
+    "section": 1629650,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Sterling",
+    "subject": "Brown",
+    "section": 1628425,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Charlie",
+    "subject": "Brown Jr.",
+    "section": 1629718,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Troy",
+    "subject": "Brown Jr.",
+    "section": 1628972,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Jalen",
+    "subject": "Brunson",
+    "section": 1628973,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Elijah",
+    "subject": "Bryant",
+    "section": 1629091,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Thomas",
+    "subject": "Bryant",
+    "section": 1628418,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Reggie",
+    "subject": "Bullock",
+    "section": 203493,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Trey",
+    "subject": "Burke",
+    "section": 203504,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Alec",
+    "subject": "Burks",
+    "section": 202692,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Jimmy",
+    "subject": "Butler",
+    "section": 202710,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Bruno",
+    "subject": "Caboclo",
+    "section": 203998,
+    "term": 0
+  },
+  {
+    "instructor": "Devontae",
+    "subject": "Cacok",
+    "section": 1629719,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Kentavious",
+    "subject": "Caldwell-Pope",
+    "section": 203484,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Facundo",
+    "subject": "Campazzo",
+    "section": 1630267,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Vlatko",
+    "subject": "Cancar",
+    "section": 1628427,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Devin",
+    "subject": "Cannady",
+    "section": 1629962,
+    "term": 0
+  },
+  {
+    "instructor": "Clint",
+    "subject": "Capela",
+    "section": 203991,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Vernon",
+    "subject": "Carey Jr.",
+    "section": 1630176,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Jevon",
+    "subject": "Carter",
+    "section": 1628975,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Wendell",
+    "subject": "Carter Jr.",
+    "section": 1628976,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Michael",
+    "subject": "Carter-Williams",
+    "section": 203487,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Alex",
+    "subject": "Caruso",
+    "section": 1627936,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Willie",
+    "subject": "Cauley-Stein",
+    "section": 1626161,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Chris",
+    "subject": "Chiozza",
+    "section": 1629185,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Marquese",
+    "subject": "Chriss",
+    "section": 1627737,
+    "term": 0
+  },
+  {
+    "instructor": "Gary",
+    "subject": "Clark",
+    "section": 1629109,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Brandon",
+    "subject": "Clarke",
+    "section": 1629634,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "Clarkson",
+    "section": 203903,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Nicolas",
+    "subject": "Claxton",
+    "section": 1629651,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Amir",
+    "subject": "Coffey",
+    "section": 1629599,
+    "term": 1610612746
+  },
+  {
+    "instructor": "John",
+    "subject": "Collins",
+    "section": 1628381,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Zach",
+    "subject": "Collins",
+    "section": 1628380,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Mike",
+    "subject": "Conley",
+    "section": 201144,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Pat",
+    "subject": "Connaughton",
+    "section": 1626192,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Quinn",
+    "subject": "Cook",
+    "section": 1626188,
+    "term": 0
+  },
+  {
+    "instructor": "Tyler",
+    "subject": "Cook",
+    "section": 1629076,
+    "term": 1610612765
+  },
+  {
+    "instructor": "DeMarcus",
+    "subject": "Cousins",
+    "section": 202326,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Robert",
+    "subject": "Covington",
+    "section": 203496,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Torrey",
+    "subject": "Craig",
+    "section": 1628470,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Jae",
+    "subject": "Crowder",
+    "section": 203109,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Jarrett",
+    "subject": "Culver",
+    "section": 1629633,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Seth",
+    "subject": "Curry",
+    "section": 203552,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Stephen",
+    "subject": "Curry",
+    "section": 201939,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Nate",
+    "subject": "Darling",
+    "section": 1630268,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Anthony",
+    "subject": "Davis",
+    "section": 203076,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Ed",
+    "subject": "Davis",
+    "section": 202334,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Terence",
+    "subject": "Davis",
+    "section": 1629056,
+    "term": 1610612758
+  },
+  {
+    "instructor": "DeMar",
+    "subject": "DeRozan",
+    "section": 201942,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Gabriel",
+    "subject": "Deck",
+    "section": 1630466,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Dewayne",
+    "subject": "Dedmon",
+    "section": 203473,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Matthew",
+    "subject": "Dellavedova",
+    "section": 203521,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Donte",
+    "subject": "DiVincenzo",
+    "section": 1628978,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Mamadi",
+    "subject": "Diakite",
+    "section": 1629603,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Hamidou",
+    "subject": "Diallo",
+    "section": 1628977,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Gorgui",
+    "subject": "Dieng",
+    "section": 203476,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Spencer",
+    "subject": "Dinwiddie",
+    "section": 203915,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Luka",
+    "subject": "Doncic",
+    "section": 1629029,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Luguentz",
+    "subject": "Dort",
+    "section": 1629652,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Damyean",
+    "subject": "Dotson",
+    "section": 1628422,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Devon",
+    "subject": "Dotson",
+    "section": 1629653,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Sekou",
+    "subject": "Doumbouya",
+    "section": 1629635,
+    "term": 1610612765
+  },
+  {
+    "instructor": "PJ",
+    "subject": "Dozier",
+    "section": 1628408,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Goran",
+    "subject": "Dragic",
+    "section": 201609,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Andre",
+    "subject": "Drummond",
+    "section": 203083,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Jared",
+    "subject": "Dudley",
+    "section": 201162,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Kris",
+    "subject": "Dunn",
+    "section": 1627739,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Kevin",
+    "subject": "Durant",
+    "section": 201142,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Anthony",
+    "subject": "Edwards",
+    "section": 1630162,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Carsen",
+    "subject": "Edwards",
+    "section": 1629035,
+    "term": 1610612738
+  },
+  {
+    "instructor": "CJ",
+    "subject": "Elleby",
+    "section": 1629604,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Henry",
+    "subject": "Ellenson",
+    "section": 1627740,
+    "term": 0
+  },
+  {
+    "instructor": "Wayne",
+    "subject": "Ellington",
+    "section": 201961,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Joel",
+    "subject": "Embiid",
+    "section": 203954,
+    "term": 1610612755
+  },
+  {
+    "instructor": "James",
+    "subject": "Ennis III",
+    "section": 203516,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Drew",
+    "subject": "Eubanks",
+    "section": 1629234,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Dante",
+    "subject": "Exum",
+    "section": 203957,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Tacko",
+    "subject": "Fall",
+    "section": 1629605,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Derrick",
+    "subject": "Favors",
+    "section": 202324,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Cristiano",
+    "subject": "Felicio",
+    "section": 1626245,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Terrance",
+    "subject": "Ferguson",
+    "section": 1628390,
+    "term": 0
+  },
+  {
+    "instructor": "Bruno",
+    "subject": "Fernando",
+    "section": 1628981,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Yogi",
+    "subject": "Ferrell",
+    "section": 1627812,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Dorian",
+    "subject": "Finney-Smith",
+    "section": 1627827,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Malik",
+    "subject": "Fitts",
+    "section": 1630238,
+    "term": 0
+  },
+  {
+    "instructor": "Malachi",
+    "subject": "Flynn",
+    "section": 1630201,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Bryn",
+    "subject": "Forbes",
+    "section": 1627854,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Trent",
+    "subject": "Forrest",
+    "section": 1630235,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Evan",
+    "subject": "Fournier",
+    "section": 203095,
+    "term": 1610612738
+  },
+  {
+    "instructor": "De'Aaron",
+    "subject": "Fox",
+    "section": 1628368,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Robert",
+    "subject": "Franks",
+    "section": 1629606,
+    "term": 0
+  },
+  {
+    "instructor": "Tim",
+    "subject": "Frazier",
+    "section": 204025,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Markelle",
+    "subject": "Fultz",
+    "section": 1628365,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Wenyen",
+    "subject": "Gabriel",
+    "section": 1629117,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Daniel",
+    "subject": "Gafford",
+    "section": 1629655,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Danilo",
+    "subject": "Gallinari",
+    "section": 201568,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Langston",
+    "subject": "Galloway",
+    "section": 204038,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Darius",
+    "subject": "Garland",
+    "section": 1629636,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Marc",
+    "subject": "Gasol",
+    "section": 201188,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Rudy",
+    "subject": "Gay",
+    "section": 200752,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Paul",
+    "subject": "George",
+    "section": 202331,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Taj",
+    "subject": "Gibson",
+    "section": 201959,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Harry",
+    "subject": "Giles III",
+    "section": 1628385,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Shai",
+    "subject": "Gilgeous-Alexander",
+    "section": 1628983,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Anthony",
+    "subject": "Gill",
+    "section": 1630264,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Freddie",
+    "subject": "Gillespie",
+    "section": 1630273,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Rudy",
+    "subject": "Gobert",
+    "section": 203497,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Brandon",
+    "subject": "Goodwin",
+    "section": 1629164,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Aaron",
+    "subject": "Gordon",
+    "section": 203932,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Eric",
+    "subject": "Gordon",
+    "section": 201569,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Devonte'",
+    "subject": "Graham",
+    "section": 1628984,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Jerami",
+    "subject": "Grant",
+    "section": 203924,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Danny",
+    "subject": "Green",
+    "section": 201980,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Draymond",
+    "subject": "Green",
+    "section": 203110,
+    "term": 1610612744
+  },
+  {
+    "instructor": "JaMychal",
+    "subject": "Green",
+    "section": 203210,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Javonte",
+    "subject": "Green",
+    "section": 1629750,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Jeff",
+    "subject": "Green",
+    "section": 201145,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Green",
+    "section": 1630182,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Blake",
+    "subject": "Griffin",
+    "section": 201933,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Kyle",
+    "subject": "Guy",
+    "section": 1629657,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Rui",
+    "subject": "Hachimura",
+    "section": 1629060,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Ashton",
+    "subject": "Hagans",
+    "section": 1630204,
+    "term": 0
+  },
+  {
+    "instructor": "Tyrese",
+    "subject": "Haliburton",
+    "section": 1630169,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Donta",
+    "subject": "Hall",
+    "section": 1629743,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Hall",
+    "section": 1630221,
+    "term": 1610612760
+  },
+  {
+    "instructor": "R.J.",
+    "subject": "Hampton",
+    "section": 1630181,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Tim",
+    "subject": "Hardaway Jr.",
+    "section": 203501,
+    "term": 1610612742
+  },
+  {
+    "instructor": "James",
+    "subject": "Harden",
+    "section": 201935,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Maurice",
+    "subject": "Harkless",
+    "section": 203090,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Jared",
+    "subject": "Harper",
+    "section": 1629607,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Montrezl",
+    "subject": "Harrell",
+    "section": 1626149,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Gary",
+    "subject": "Harris",
+    "section": 203914,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Jalen",
+    "subject": "Harris",
+    "section": 1630223,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Joe",
+    "subject": "Harris",
+    "section": 203925,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Tobias",
+    "subject": "Harris",
+    "section": 202699,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Shaquille",
+    "subject": "Harrison",
+    "section": 1627885,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Hart",
+    "section": 1628404,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Isaiah",
+    "subject": "Hartenstein",
+    "section": 1628392,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Udonis",
+    "subject": "Haslem",
+    "section": 2617,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Jaxson",
+    "subject": "Hayes",
+    "section": 1629637,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Killian",
+    "subject": "Hayes",
+    "section": 1630165,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Gordon",
+    "subject": "Hayward",
+    "section": 202330,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Juancho",
+    "subject": "Hernangomez",
+    "section": 1627823,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Willy",
+    "subject": "Hernangomez",
+    "section": 1626195,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Tyler",
+    "subject": "Herro",
+    "section": 1629639,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Buddy",
+    "subject": "Hield",
+    "section": 1627741,
+    "term": 1610612758
+  },
+  {
+    "instructor": "George",
+    "subject": "Hill",
+    "section": 201588,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Solomon",
+    "subject": "Hill",
+    "section": 203524,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Nate",
+    "subject": "Hinton",
+    "section": 1630207,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Jaylen",
+    "subject": "Hoard",
+    "section": 1629658,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Aaron",
+    "subject": "Holiday",
+    "section": 1628988,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Jrue",
+    "subject": "Holiday",
+    "section": 201950,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Justin",
+    "subject": "Holiday",
+    "section": 203200,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Rondae",
+    "subject": "Hollis-Jefferson",
+    "section": 1626178,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Richaun",
+    "subject": "Holmes",
+    "section": 1626158,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Rodney",
+    "subject": "Hood",
+    "section": 203918,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Al",
+    "subject": "Horford",
+    "section": 201143,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Talen",
+    "subject": "Horton-Tucker",
+    "section": 1629659,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Danuel",
+    "subject": "House Jr.",
+    "section": 1627863,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Dwight",
+    "subject": "Howard",
+    "section": 2730,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Markus",
+    "subject": "Howard",
+    "section": 1630210,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Kevin",
+    "subject": "Huerter",
+    "section": 1628989,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Elijah",
+    "subject": "Hughes",
+    "section": 1630190,
+    "term": 1610612762
+  },
+  {
+    "instructor": "De'Andre",
+    "subject": "Hunter",
+    "section": 1629631,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Chandler",
+    "subject": "Hutchison",
+    "section": 1628990,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Serge",
+    "subject": "Ibaka",
+    "section": 201586,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Andre",
+    "subject": "Iguodala",
+    "section": 2738,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Ersan",
+    "subject": "Ilyasova",
+    "section": 101141,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Joe",
+    "subject": "Ingles",
+    "section": 204060,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Brandon",
+    "subject": "Ingram",
+    "section": 1627742,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Kyrie",
+    "subject": "Irving",
+    "section": 202681,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Jonathan",
+    "subject": "Isaac",
+    "section": 1628371,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Wes",
+    "subject": "Iwundu",
+    "section": 1628411,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Frank",
+    "subject": "Jackson",
+    "section": 1628402,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Jackson",
+    "section": 1628367,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Justin",
+    "subject": "Jackson",
+    "section": 1628382,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Reggie",
+    "subject": "Jackson",
+    "section": 202704,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Jaren",
+    "subject": "Jackson Jr.",
+    "section": 1628991,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Justin",
+    "subject": "James",
+    "section": 1629713,
+    "term": 1610612758
+  },
+  {
+    "instructor": "LeBron",
+    "subject": "James",
+    "section": 2544,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Mike",
+    "subject": "James",
+    "section": 1628455,
+    "term": 1610612751
+  },
+  {
+    "instructor": "DaQuan",
+    "subject": "Jeffries",
+    "section": 1629610,
+    "term": 0
+  },
+  {
+    "instructor": "Ty",
+    "subject": "Jerome",
+    "section": 1629660,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Isaiah",
+    "subject": "Joe",
+    "section": 1630198,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Alize",
+    "subject": "Johnson",
+    "section": 1628993,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Cameron",
+    "subject": "Johnson",
+    "section": 1629661,
+    "term": 1610612756
+  },
+  {
+    "instructor": "James",
+    "subject": "Johnson",
+    "section": 201949,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Keldon",
+    "subject": "Johnson",
+    "section": 1629640,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Stanley",
+    "subject": "Johnson",
+    "section": 1626169,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Tyler",
+    "subject": "Johnson",
+    "section": 204020,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Nikola",
+    "subject": "Jokic",
+    "section": 203999,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Damian",
+    "subject": "Jones",
+    "section": 1627745,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Mason",
+    "subject": "Jones",
+    "section": 1630222,
+    "term": 0
+  },
+  {
+    "instructor": "Tre",
+    "subject": "Jones",
+    "section": 1630200,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Tyus",
+    "subject": "Jones",
+    "section": 1626145,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Derrick",
+    "subject": "Jones Jr.",
+    "section": 1627884,
+    "term": 1610612757
+  },
+  {
+    "instructor": "DeAndre",
+    "subject": "Jordan",
+    "section": 201599,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Cory",
+    "subject": "Joseph",
+    "section": 202709,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Mfiondu",
+    "subject": "Kabengele",
+    "section": 1629662,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Frank",
+    "subject": "Kaminsky",
+    "section": 1626163,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Enes",
+    "subject": "Kanter",
+    "section": 202683,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Luke",
+    "subject": "Kennard",
+    "section": 1628379,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Louis",
+    "subject": "King",
+    "section": 1629663,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Maxi",
+    "subject": "Kleber",
+    "section": 1628467,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Nathan",
+    "subject": "Knight",
+    "section": 1630233,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Kevin",
+    "subject": "Knox II",
+    "section": 1628995,
+    "term": 1610612752
+  },
+  {
+    "instructor": "John",
+    "subject": "Konchar",
+    "section": 1629723,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Furkan",
+    "subject": "Korkmaz",
+    "section": 1627788,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Luke",
+    "subject": "Kornet",
+    "section": 1628436,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Rodions",
+    "subject": "Kurucs",
+    "section": 1629066,
+    "term": 0
+  },
+  {
+    "instructor": "Kyle",
+    "subject": "Kuzma",
+    "section": 1628398,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Zach",
+    "subject": "LaVine",
+    "section": 203897,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Anthony",
+    "subject": "Lamb",
+    "section": 1630237,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Jeremy",
+    "subject": "Lamb",
+    "section": 203087,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Romeo",
+    "subject": "Langford",
+    "section": 1629641,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Jake",
+    "subject": "Layman",
+    "section": 1627774,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Caris",
+    "subject": "LeVert",
+    "section": 1627747,
+    "term": 1610612754
+  },
+  {
+    "instructor": "T.J.",
+    "subject": "Leaf",
+    "section": 1628388,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Jalen",
+    "subject": "Lecque",
+    "section": 1629665,
+    "term": 0
+  },
+  {
+    "instructor": "Damion",
+    "subject": "Lee",
+    "section": 1627814,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Saben",
+    "subject": "Lee",
+    "section": 1630240,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Alex",
+    "subject": "Len",
+    "section": 203458,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Kawhi",
+    "subject": "Leonard",
+    "section": 202695,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Meyers",
+    "subject": "Leonard",
+    "section": 203086,
+    "term": 0
+  },
+  {
+    "instructor": "Kira",
+    "subject": "Lewis Jr.",
+    "section": 1630184,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Damian",
+    "subject": "Lillard",
+    "section": 203081,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Nassir",
+    "subject": "Little",
+    "section": 1629642,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Kevon",
+    "subject": "Looney",
+    "section": 1626172,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Brook",
+    "subject": "Lopez",
+    "section": 201572,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Robin",
+    "subject": "Lopez",
+    "section": 201577,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Didi",
+    "subject": "Louzada",
+    "section": 1629712,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Kevin",
+    "subject": "Love",
+    "section": 201567,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Kyle",
+    "subject": "Lowry",
+    "section": 200768,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Timothe",
+    "subject": "Luwawu-Cabarrot",
+    "section": 1627789,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Trey",
+    "subject": "Lyles",
+    "section": 1626168,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Will",
+    "subject": "Magnay",
+    "section": 1630266,
+    "term": 0
+  },
+  {
+    "instructor": "Thon",
+    "subject": "Maker",
+    "section": 1627748,
+    "term": 0
+  },
+  {
+    "instructor": "Theo",
+    "subject": "Maledon",
+    "section": 1630177,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Karim",
+    "subject": "Mane",
+    "section": 1630211,
+    "term": 0
+  },
+  {
+    "instructor": "Terance",
+    "subject": "Mann",
+    "section": 1629611,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Nico",
+    "subject": "Mannion",
+    "section": 1630185,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Boban",
+    "subject": "Marjanovic",
+    "section": 1626246,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Lauri",
+    "subject": "Markkanen",
+    "section": 1628374,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Naji",
+    "subject": "Marshall",
+    "section": 1630230,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Caleb",
+    "subject": "Martin",
+    "section": 1628997,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Cody",
+    "subject": "Martin",
+    "section": 1628998,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Jeremiah",
+    "subject": "Martin",
+    "section": 1629725,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Kelan",
+    "subject": "Martin",
+    "section": 1629103,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Kenyon",
+    "subject": "Martin Jr.",
+    "section": 1630231,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Frank",
+    "subject": "Mason",
+    "section": 1628412,
+    "term": 0
+  },
+  {
+    "instructor": "Garrison",
+    "subject": "Mathews",
+    "section": 1629726,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Dakota",
+    "subject": "Mathias",
+    "section": 1629751,
+    "term": 0
+  },
+  {
+    "instructor": "Wesley",
+    "subject": "Matthews",
+    "section": 202083,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Tyrese",
+    "subject": "Maxey",
+    "section": 1630178,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Skylar",
+    "subject": "Mays",
+    "section": 1630219,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Patrick",
+    "subject": "McCaw",
+    "section": 1627775,
+    "term": 0
+  },
+  {
+    "instructor": "CJ",
+    "subject": "McCollum",
+    "section": 203468,
+    "term": 1610612757
+  },
+  {
+    "instructor": "T.J.",
+    "subject": "McConnell",
+    "section": 204456,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Jaden",
+    "subject": "McDaniels",
+    "section": 1630183,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Jalen",
+    "subject": "McDaniels",
+    "section": 1629667,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Doug",
+    "subject": "McDermott",
+    "section": 203926,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Sean",
+    "subject": "McDermott",
+    "section": 1630253,
+    "term": 1610612763
+  },
+  {
+    "instructor": "JaVale",
+    "subject": "McGee",
+    "section": 201580,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Rodney",
+    "subject": "McGruder",
+    "section": 203585,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Alfonzo",
+    "subject": "McKinnie",
+    "section": 1628035,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "McLaughlin",
+    "section": 1629162,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Ben",
+    "subject": "McLemore",
+    "section": 203463,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Nicolo",
+    "subject": "Melli",
+    "section": 1629740,
+    "term": 1610612742
+  },
+  {
+    "instructor": "De'Anthony",
+    "subject": "Melton",
+    "section": 1629001,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Sam",
+    "subject": "Merrill",
+    "section": 1630241,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Chimezie",
+    "subject": "Metu",
+    "section": 1629002,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Khris",
+    "subject": "Middleton",
+    "section": 203114,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Darius",
+    "subject": "Miller",
+    "section": 203121,
+    "term": 0
+  },
+  {
+    "instructor": "Patty",
+    "subject": "Mills",
+    "section": 201988,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Paul",
+    "subject": "Millsap",
+    "section": 200794,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Shake",
+    "subject": "Milton",
+    "section": 1629003,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Donovan",
+    "subject": "Mitchell",
+    "section": 1628378,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Adam",
+    "subject": "Mokoka",
+    "section": 1629690,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Malik",
+    "subject": "Monk",
+    "section": 1628370,
+    "term": 1610612766
+  },
+  {
+    "instructor": "E'Twaun",
+    "subject": "Moore",
+    "section": 202734,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Ja",
+    "subject": "Morant",
+    "section": 1629630,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Juwan",
+    "subject": "Morgan",
+    "section": 1629752,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Markieff",
+    "subject": "Morris",
+    "section": 202693,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Monte",
+    "subject": "Morris",
+    "section": 1628420,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Marcus",
+    "subject": "Morris Sr.",
+    "section": 202694,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Mychal",
+    "subject": "Mulder",
+    "section": 1628539,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Dejounte",
+    "subject": "Murray",
+    "section": 1627749,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Jamal",
+    "subject": "Murray",
+    "section": 1627750,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Mike",
+    "subject": "Muscala",
+    "section": 203488,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Svi",
+    "subject": "Mykhailiuk",
+    "section": 1629004,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Abdel",
+    "subject": "Nader",
+    "section": 1627846,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Larry",
+    "subject": "Nance Jr.",
+    "section": 1626204,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Aaron",
+    "subject": "Nesmith",
+    "section": 1630174,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Raul",
+    "subject": "Neto",
+    "section": 203526,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Georges",
+    "subject": "Niang",
+    "section": 1627777,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Zeke",
+    "subject": "Nnaji",
+    "section": 1630192,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Nerlens",
+    "subject": "Noel",
+    "section": 203457,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Jaylen",
+    "subject": "Nowell",
+    "section": 1629669,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Frank",
+    "subject": "Ntilikina",
+    "section": 1628373,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Kendrick",
+    "subject": "Nunn",
+    "section": 1629134,
+    "term": 1610612748
+  },
+  {
+    "instructor": "James",
+    "subject": "Nunnally",
+    "section": 203263,
+    "term": 1610612740
+  },
+  {
+    "instructor": "Jusuf",
+    "subject": "Nurkic",
+    "section": 203994,
+    "term": 1610612757
+  },
+  {
+    "instructor": "David",
+    "subject": "Nwaba",
+    "section": 1628021,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "Nwora",
+    "section": 1629670,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Royce",
+    "subject": "O'Neale",
+    "section": 1626220,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Semi",
+    "subject": "Ojeleye",
+    "section": 1628400,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Jahlil",
+    "subject": "Okafor",
+    "section": 1626143,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Chuma",
+    "subject": "Okeke",
+    "section": 1629643,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Okogie",
+    "section": 1629006,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Onyeka",
+    "subject": "Okongwu",
+    "section": 1630168,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Isaac",
+    "subject": "Okoro",
+    "section": 1630171,
+    "term": 1610612739
+  },
+  {
+    "instructor": "KZ",
+    "subject": "Okpala",
+    "section": 1629644,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Victor",
+    "subject": "Oladipo",
+    "section": 203506,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Cameron",
+    "subject": "Oliver",
+    "section": 1628419,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Kelly",
+    "subject": "Olynyk",
+    "section": 203482,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Miye",
+    "subject": "Oni",
+    "section": 1629671,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Cedi",
+    "subject": "Osman",
+    "section": 1626224,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Daniel",
+    "subject": "Oturu",
+    "section": 1630187,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Kelly",
+    "subject": "Oubre Jr.",
+    "section": 1626162,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Jabari",
+    "subject": "Parker",
+    "section": 203953,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Eric",
+    "subject": "Paschall",
+    "section": 1629672,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Anzejs",
+    "subject": "Pasecniks",
+    "section": 1628394,
+    "term": 0
+  },
+  {
+    "instructor": "Patrick",
+    "subject": "Patterson",
+    "section": 202335,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Justin",
+    "subject": "Patton",
+    "section": 1628383,
+    "term": 0
+  },
+  {
+    "instructor": "Chris",
+    "subject": "Paul",
+    "section": 101108,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Cameron",
+    "subject": "Payne",
+    "section": 1626166,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Elfrid",
+    "subject": "Payton",
+    "section": 203901,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Gary",
+    "subject": "Payton II",
+    "section": 1627780,
+    "term": 0
+  },
+  {
+    "instructor": "Norvel",
+    "subject": "Pelle",
+    "section": 203658,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Reggie",
+    "subject": "Perry",
+    "section": 1629617,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Theo",
+    "subject": "Pinson",
+    "section": 1629033,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Mason",
+    "subject": "Plumlee",
+    "section": 203486,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Jakob",
+    "subject": "Poeltl",
+    "section": 1627751,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Vincent",
+    "subject": "Poirier",
+    "section": 1629738,
+    "term": 0
+  },
+  {
+    "instructor": "Aleksej",
+    "subject": "Pokusevski",
+    "section": 1630197,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Jordan",
+    "subject": "Poole",
+    "section": 1629673,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Jontay",
+    "subject": "Porter",
+    "section": 1629007,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Kevin",
+    "subject": "Porter Jr.",
+    "section": 1629645,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Michael",
+    "subject": "Porter Jr.",
+    "section": 1629008,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Otto",
+    "subject": "Porter Jr.",
+    "section": 203490,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Bobby",
+    "subject": "Portis",
+    "section": 1626171,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Kristaps",
+    "subject": "Porzingis",
+    "section": 204001,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Dwight",
+    "subject": "Powell",
+    "section": 203939,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Norman",
+    "subject": "Powell",
+    "section": 1626181,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Taurean",
+    "subject": "Prince",
+    "section": 1627752,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Payton",
+    "subject": "Pritchard",
+    "section": 1630202,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Immanuel",
+    "subject": "Quickley",
+    "section": 1630193,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Jahmi'us",
+    "subject": "Ramsey",
+    "section": 1630186,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Chasson",
+    "subject": "Randle",
+    "section": 1626184,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Julius",
+    "subject": "Randle",
+    "section": 203944,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Cam",
+    "subject": "Reddish",
+    "section": 1629629,
+    "term": 1610612737
+  },
+  {
+    "instructor": "JJ",
+    "subject": "Redick",
+    "section": 200755,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Paul",
+    "subject": "Reed",
+    "section": 1630194,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Naz",
+    "subject": "Reid",
+    "section": 1629675,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Cameron",
+    "subject": "Reynolds",
+    "section": 1629244,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Nick",
+    "subject": "Richards",
+    "section": 1630208,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Josh",
+    "subject": "Richardson",
+    "section": 1626196,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Grant",
+    "subject": "Riller",
+    "section": 1630203,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Austin",
+    "subject": "Rivers",
+    "section": 203085,
+    "term": 1610612743
+  },
+  {
+    "instructor": "Andre",
+    "subject": "Roberson",
+    "section": 203460,
+    "term": 0
+  },
+  {
+    "instructor": "Duncan",
+    "subject": "Robinson",
+    "section": 1629130,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Jerome",
+    "subject": "Robinson",
+    "section": 1629010,
+    "term": 0
+  },
+  {
+    "instructor": "Justin",
+    "subject": "Robinson",
+    "section": 1629620,
+    "term": 0
+  },
+  {
+    "instructor": "Mitchell",
+    "subject": "Robinson",
+    "section": 1629011,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Glenn",
+    "subject": "Robinson III",
+    "section": 203922,
+    "term": 0
+  },
+  {
+    "instructor": "Isaiah",
+    "subject": "Roby",
+    "section": 1629676,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Rajon",
+    "subject": "Rondo",
+    "section": 200765,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Derrick",
+    "subject": "Rose",
+    "section": 201565,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Terrence",
+    "subject": "Ross",
+    "section": 203082,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Terry",
+    "subject": "Rozier",
+    "section": 1626179,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Ricky",
+    "subject": "Rubio",
+    "section": 201937,
+    "term": 1610612750
+  },
+  {
+    "instructor": "D'Angelo",
+    "subject": "Russell",
+    "section": 1626156,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Domantas",
+    "subject": "Sabonis",
+    "section": 1627734,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Luka",
+    "subject": "Samanic",
+    "section": 1629677,
+    "term": 1610612759
+  },
+  {
+    "instructor": "JaKarr",
+    "subject": "Sampson",
+    "section": 203960,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Dario",
+    "subject": "Saric",
+    "section": 203967,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Tomas",
+    "subject": "Satoransky",
+    "section": 203107,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Dennis",
+    "subject": "Schroder",
+    "section": 203471,
+    "term": 1610612747
+  },
+  {
+    "instructor": "Mike",
+    "subject": "Scott",
+    "section": 203118,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Jay",
+    "subject": "Scrubb",
+    "section": 1630206,
+    "term": 1610612746
+  },
+  {
+    "instructor": "Collin",
+    "subject": "Sexton",
+    "section": 1629012,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Landry",
+    "subject": "Shamet",
+    "section": 1629013,
+    "term": 1610612751
+  },
+  {
+    "instructor": "Iman",
+    "subject": "Shumpert",
+    "section": 202697,
+    "term": 0
+  },
+  {
+    "instructor": "Pascal",
+    "subject": "Siakam",
+    "section": 1627783,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Chris",
+    "subject": "Silva",
+    "section": 1629735,
+    "term": 0
+  },
+  {
+    "instructor": "Ben",
+    "subject": "Simmons",
+    "section": 1627732,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Anfernee",
+    "subject": "Simons",
+    "section": 1629014,
+    "term": 1610612757
+  },
+  {
+    "instructor": "Deividas",
+    "subject": "Sirvydis",
+    "section": 1629686,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Alen",
+    "subject": "Smailagic",
+    "section": 1629346,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Marcus",
+    "subject": "Smart",
+    "section": 203935,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Ish",
+    "subject": "Smith",
+    "section": 202397,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Jalen",
+    "subject": "Smith",
+    "section": 1630188,
+    "term": 1610612756
+  },
+  {
+    "instructor": "Dennis",
+    "subject": "Smith Jr.",
+    "section": 1628372,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Tony",
+    "subject": "Snell",
+    "section": 203503,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Ray",
+    "subject": "Spalding",
+    "section": 1629034,
+    "term": 0
+  },
+  {
+    "instructor": "Cassius",
+    "subject": "Stanley",
+    "section": 1630199,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Lamar",
+    "subject": "Stevens",
+    "section": 1630205,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Isaiah",
+    "subject": "Stewart",
+    "section": 1630191,
+    "term": 1610612765
+  },
+  {
+    "instructor": "Max",
+    "subject": "Strus",
+    "section": 1629622,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Edmond",
+    "subject": "Sumner",
+    "section": 1628410,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Jae'Sean",
+    "subject": "Tate",
+    "section": 1630256,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Jayson",
+    "subject": "Tatum",
+    "section": 1628369,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Jeff",
+    "subject": "Teague",
+    "section": 201952,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Garrett",
+    "subject": "Temple",
+    "section": 202066,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Tyrell",
+    "subject": "Terry",
+    "section": 1630179,
+    "term": 1610612742
+  },
+  {
+    "instructor": "Daniel",
+    "subject": "Theis",
+    "section": 1628464,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Brodric",
+    "subject": "Thomas",
+    "section": 1630271,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Isaiah",
+    "subject": "Thomas",
+    "section": 202738,
+    "term": 0
+  },
+  {
+    "instructor": "Khyri",
+    "subject": "Thomas",
+    "section": 1629017,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Matt",
+    "subject": "Thomas",
+    "section": 1629744,
+    "term": 1610612762
+  },
+  {
+    "instructor": "Klay",
+    "subject": "Thompson",
+    "section": 202691,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Tristan",
+    "subject": "Thompson",
+    "section": 202684,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Sindarius",
+    "subject": "Thornwell",
+    "section": 1628414,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Matisse",
+    "subject": "Thybulle",
+    "section": 1629680,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Killian",
+    "subject": "Tillie",
+    "section": 1629681,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Xavier",
+    "subject": "Tillman",
+    "section": 1630214,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Anthony",
+    "subject": "Tolliver",
+    "section": 201229,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Obi",
+    "subject": "Toppin",
+    "section": 1630167,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Juan",
+    "subject": "Toscano-Anderson",
+    "section": 1629308,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Axel",
+    "subject": "Toupane",
+    "section": 1626253,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Karl-Anthony",
+    "subject": "Towns",
+    "section": 1626157,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Gary",
+    "subject": "Trent Jr.",
+    "section": 1629018,
+    "term": 1610612761
+  },
+  {
+    "instructor": "P.J.",
+    "subject": "Tucker",
+    "section": 200782,
+    "term": 1610612749
+  },
+  {
+    "instructor": "Rayjon",
+    "subject": "Tucker",
+    "section": 1629730,
+    "term": 1610612755
+  },
+  {
+    "instructor": "Myles",
+    "subject": "Turner",
+    "section": 1626167,
+    "term": 1610612754
+  },
+  {
+    "instructor": "Jonas",
+    "subject": "Valanciunas",
+    "section": 202685,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Denzel",
+    "subject": "Valentine",
+    "section": 1627756,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Fred",
+    "subject": "VanVleet",
+    "section": 1627832,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Jarred",
+    "subject": "Vanderbilt",
+    "section": 1629020,
+    "term": 1610612750
+  },
+  {
+    "instructor": "Anderson",
+    "subject": "Varejao",
+    "section": 2760,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Devin",
+    "subject": "Vassell",
+    "section": 1630170,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Luca",
+    "subject": "Vildoza",
+    "section": 1630492,
+    "term": 1610612752
+  },
+  {
+    "instructor": "Gabe",
+    "subject": "Vincent",
+    "section": 1629216,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Noah",
+    "subject": "Vonleh",
+    "section": 203943,
+    "term": 0
+  },
+  {
+    "instructor": "Nikola",
+    "subject": "Vucevic",
+    "section": 202696,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Dean",
+    "subject": "Wade",
+    "section": 1629731,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Moritz",
+    "subject": "Wagner",
+    "section": 1629021,
+    "term": 1610612753
+  },
+  {
+    "instructor": "Kemba",
+    "subject": "Walker",
+    "section": 202689,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Lonnie",
+    "subject": "Walker IV",
+    "section": 1629022,
+    "term": 1610612759
+  },
+  {
+    "instructor": "John",
+    "subject": "Wall",
+    "section": 202322,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Brad",
+    "subject": "Wanamaker",
+    "section": 202954,
+    "term": 1610612766
+  },
+  {
+    "instructor": "T.J.",
+    "subject": "Warren",
+    "section": 203933,
+    "term": 1610612754
+  },
+  {
+    "instructor": "P.J.",
+    "subject": "Washington",
+    "section": 1629023,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Yuta",
+    "subject": "Watanabe",
+    "section": 1629139,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Tremont",
+    "subject": "Waters",
+    "section": 1629682,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Paul",
+    "subject": "Watson",
+    "section": 1628778,
+    "term": 1610612761
+  },
+  {
+    "instructor": "Quinndary",
+    "subject": "Weatherspoon",
+    "section": 1629683,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Russell",
+    "subject": "Westbrook",
+    "section": 201566,
+    "term": 1610612764
+  },
+  {
+    "instructor": "Coby",
+    "subject": "White",
+    "section": 1629632,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Derrick",
+    "subject": "White",
+    "section": 1628401,
+    "term": 1610612759
+  },
+  {
+    "instructor": "Hassan",
+    "subject": "Whiteside",
+    "section": 202355,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Greg",
+    "subject": "Whittington",
+    "section": 204222,
+    "term": 0
+  },
+  {
+    "instructor": "Andrew",
+    "subject": "Wiggins",
+    "section": 203952,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Grant",
+    "subject": "Williams",
+    "section": 1629684,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Kenrich",
+    "subject": "Williams",
+    "section": 1629026,
+    "term": 1610612760
+  },
+  {
+    "instructor": "Lou",
+    "subject": "Williams",
+    "section": 101150,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Patrick",
+    "subject": "Williams",
+    "section": 1630172,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Robert",
+    "subject": "Williams III",
+    "section": 1629057,
+    "term": 1610612738
+  },
+  {
+    "instructor": "Zion",
+    "subject": "Williamson",
+    "section": 1629627,
+    "term": 1610612740
+  },
+  {
+    "instructor": "D.J.",
+    "subject": "Wilson",
+    "section": 1628391,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Dylan",
+    "subject": "Windler",
+    "section": 1629685,
+    "term": 1610612739
+  },
+  {
+    "instructor": "Justise",
+    "subject": "Winslow",
+    "section": 1626159,
+    "term": 1610612763
+  },
+  {
+    "instructor": "Cassius",
+    "subject": "Winston",
+    "section": 1630216,
+    "term": 1610612764
+  },
+  {
+    "instructor": "James",
+    "subject": "Wiseman",
+    "section": 1630164,
+    "term": 1610612744
+  },
+  {
+    "instructor": "Christian",
+    "subject": "Wood",
+    "section": 1626174,
+    "term": 1610612745
+  },
+  {
+    "instructor": "Robert",
+    "subject": "Woodard II",
+    "section": 1630218,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Delon",
+    "subject": "Wright",
+    "section": 1626153,
+    "term": 1610612758
+  },
+  {
+    "instructor": "Thaddeus",
+    "subject": "Young",
+    "section": 201152,
+    "term": 1610612741
+  },
+  {
+    "instructor": "Trae",
+    "subject": "Young",
+    "section": 1629027,
+    "term": 1610612737
+  },
+  {
+    "instructor": "Omer",
+    "subject": "Yurtseven",
+    "section": 1630209,
+    "term": 1610612748
+  },
+  {
+    "instructor": "Cody",
+    "subject": "Zeller",
+    "section": 203469,
+    "term": 1610612766
+  },
+  {
+    "instructor": "Ivica",
+    "subject": "Zubac",
+    "section": 1627826,
+    "term": 1610612746
+  }
+]
