@@ -5,10 +5,8 @@ Here we want a ul list with the instructor, coursenum, title, term
     <thead>
         <tr>
             <th>Semester</th>
-            <th>Course #</th>
             <th>Course Title</th>
             <th>Enr/Limit/Waiting</th>
-            <th>Times</th>
             <th>Instructor</th>
         </tr>
     </thead>
@@ -38,16 +36,7 @@ Here we want a ul list with the instructor, coursenum, title, term
             <%=course.enrolled %>/<%=course.limit || 999 %>/<%= course.waiting %>
         </td>
 
-        <td>
-        <% for (t of course.strTimes){%> 
-            <%= t %> <br> 
-        <%} %>
-        </td>
-         <!-- <%= JSON.stringify(course.times) %> <br> -->
-        
-
-        <td>
-          <%= inst[0]+" "+inst[1]%> <br> <%= " ("+inst[2]+")" %>
+          <%= inst %>
         </td>
     </tr>
     <% } %>
