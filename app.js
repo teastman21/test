@@ -280,8 +280,8 @@ app.get('/courses/show/:courseId',
 app.get('/courses/byInst/:email',
   // show a list of all courses taught by a given faculty
   async (req,res,next) => {
-    const email = req.params.email+"@brandeis.edu";
-    const courses = await Course.find({instructor:email,independent_study:false})
+    const email = req.params.email;
+    const courses = await Course.find({instructor:email})
     //res.json(courses)
     res.locals.courses = courses
     res.render('courselist')
